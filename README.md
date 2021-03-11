@@ -9,7 +9,7 @@
 
 <p>Brute force&nbsp;is defined as an attack to crack passwords where we submit many passwords guessing that any of the passwords which we are submitting may work.</p>
 
-```
+```python
 # importing random
 from random import *
 
