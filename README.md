@@ -37,4 +37,5 @@ print("Your password is",guess)
 
 ## Join Us
 Telegram - https://t.me/techcvr <br>
-Discord - https://discord.gg/bcH8nGU
+Discord - https://discord.gg/bcH8nGU <br>
+YouTube - https://www.youtube.com/techcvr
