@@ -35,7 +35,8 @@ while (guess != user_pass):
 print("Your password is",guess)
 ```
 
-## Join Us
+## Connect With Me
 Telegram - https://t.me/techcvr <br>
 Discord - https://discord.gg/bcH8nGU <br>
-YouTube - https://www.youtube.com/techcvr
+YouTube - https://www.youtube.com/techcvr <br>
+Instagram - https://www.instagram.com/vishalgaire/
